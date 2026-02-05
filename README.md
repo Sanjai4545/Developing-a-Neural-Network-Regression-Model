@@ -44,7 +44,7 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name: SANJAI V
+### Name: SANJAI T
 
 ### Register Number: 212224240144
 
